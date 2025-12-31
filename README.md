@@ -1,0 +1,79 @@
+# ROF-MAO – Bring it on
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Yea, easy-peasy
+Yea, easy-peasy…
+うっせえ罵詈雑言
+「てんで分かってない」
+「ツヨがってんでしょ？」
+Oh you know?
+凹みまくって Slow down
+傷つくわ ド正論
+逆に分かってない！
+戦ってんだよ そういうの
+段取りなんてないぜ
+控えめに言って ウケは上々
+カッコつけりゃ 沸いてアガる実況
+いつまでも Childish! Childish?
+これが才能
+俺ら最高に Hype boys
+独自のGrooveで のし上がっていくんだ
+Yea, easy-peasy
+Yea, easy-peasy…
+飽き飽きしてんだ 偽りの Face
+しょうもない後悔 したくないだろ？
+Yea, easy-peasy
+Bring it on プライド捨てろ！
+感情のまま ドストレート
+がむしゃら 俺らのカラー
+魅せつけろ！
+Bring it on スピード上げろ！
+限界を決めんの ダセーよ
+何べんだって向かっていく
+GAN!! GAN!! To the top!!
+Yea, easy-peasy
+破茶滅茶上等 遊べ On the stage
+Yea, easy-peasy
+派手にかますぜ
+Come now!! Bring it on!!
+やっべー 今日はポンコツ
+あれまだやってない
+これも終わってない…
+早く言えよな 手伝うぜ My bro
+はいはい即行動
+凹む時間はない
+抗っていくぞ！
+よっしゃ！フルボリュームで鳴らしちゃいましょう！
+メラメラしてんだ 乗るぜ Big Wave
+ハンパない将来 見せてやるぜ！
+Yea, easy-peasy
+Bring it on ズバッと決めろ
+本能のまま コンプリート
+Sing a long 俺らのミュージック
+響かせろ！
+Bring it on さあビート上げろ
+ドッドッと 鼓動の重低音
+老若男女 巻き込む
+GAN!! GAN!! To the top!!
+Yea, easy-peasy
+Yea, easy-peasy
+輝いていたいんだ どんな時だって
+ブレない奴が 勝つ時代だろ？
+Yea, easy-peasy
+Bring it on プライド捨てろ！
+感情のまま ドストレート
+がむしゃら 俺らのカラー
+魅せつけろ！
+Bring it on スピード上げろ！
+限界を決めんの ダセーよ
+何べんだって向かっていく
+GAN!! GAN!! To the top!!
+Yea, easy-peasy
+破茶滅茶上等 遊べ On the stage
+Yea, easy-peasy
+派手にかますぜ
+困難だって ハプニングだって
+Come now!! Bring it on!!
+```
