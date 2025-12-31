@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Bring it on",
+  "base_artist": "ROF-MAO",
+  "createdAt": "2025-12-31T00:45:22.794473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bring It On",
+      "artist": "Corey Kent White",
+      "has_synced": true,
+      "path": "select/01_Bring_It_On_Corey_Kent_White.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bring It On",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/02_Bring_It_On_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bring It On Over",
+      "artist": "Billy Currington",
+      "has_synced": true,
+      "path": "select/03_Bring_It_On_Over_Billy_Currington.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bring It On Home to Me",
+      "artist": "Mickey Gilley",
+      "has_synced": true,
+      "path": "select/04_Bring_It_On_Home_to_Me_Mickey_Gilley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bring It On Down",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Bring_It_On_Down_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bring It on Home - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/06_Bring_It_on_Home_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bring It on Home",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/07_Bring_It_on_Home_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bring It On",
+      "artist": "Organized Konfusion",
+      "has_synced": true,
+      "path": "select/08_Bring_It_On_Organized_Konfusion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bring It On Down - Live",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Bring_It_On_Down_-_Live_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bring It On Home",
+      "artist": "Bakerloo",
+      "has_synced": false,
+      "path": "select/10_Bring_It_On_Home_Bakerloo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bring It On",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/11_Bring_It_On_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bring It On Home to Me / You Send Me",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/12_Bring_It_On_Home_to_Me___You_Send_Me_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bring It On",
+      "artist": "8mm",
+      "has_synced": false,
+      "path": "select/13_Bring_It_On_8mm.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bring It On",
+      "artist": "Seal",
+      "has_synced": true,
+      "path": "select/14_Bring_It_On_Seal.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bring It On (Reprise)",
+      "artist": "Seal",
+      "has_synced": true,
+      "path": "select/15_Bring_It_On_(Reprise)_Seal.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The former enfant terrible - Bring it on mix",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/16_The_former_enfant_terrible_-_Bring_it_on_mix_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Former Enfant Terrible (PSB Bring It On Mix)",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/17_The_Former_Enfant_Terrible_(PSB_Bring_It_On_Mix)_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bring It On",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/18_Bring_It_On_Jay-Z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bring it on",
+      "artist": "ROF-MAO",
+      "has_synced": false,
+      "path": "select/pl_01_Bring_it_on_ROF-MAO.txt"
+    }
+  ]
+}
